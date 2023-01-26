@@ -28,7 +28,7 @@ You can customize the look and feel of the page by editing the CSS styles in the
 
 ### Authors
 
-- [Your Name](https://github.com/yourusername)
+- [Akash C](https://github.com/akashc99)
 
 ### Acknowledgments
 
